@@ -14,5 +14,4 @@ ASP.Net Core Web API (.Net 6.0)
 ** Developed By:
 > Name: Kazi Sayed Hossain
 > Email: sayedmasud69@gmail.com
-> Mobile No: +88-01843493081 (WhatsApp)
 > Address: Dhaka, Bangladesh
